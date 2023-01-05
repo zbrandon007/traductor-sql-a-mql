@@ -1,9 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 16 12:55:55 2021
 
-@author: JOEL
-"""
+
+
+
+
+
 
 import sqlparse
 from sqlparse.sql import IdentifierList, Identifier, Where, Function
